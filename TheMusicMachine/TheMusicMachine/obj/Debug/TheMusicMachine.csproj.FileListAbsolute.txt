@@ -1,0 +1,10 @@
+c:\users\matthew\documents\visual studio 2013\Projects\TheMusicMachine\TheMusicMachine\bin\Debug\TheMusicMachine.exe.config
+c:\users\matthew\documents\visual studio 2013\Projects\TheMusicMachine\TheMusicMachine\bin\Debug\TheMusicMachine.exe
+c:\users\matthew\documents\visual studio 2013\Projects\TheMusicMachine\TheMusicMachine\bin\Debug\TheMusicMachine.pdb
+c:\users\matthew\documents\visual studio 2013\Projects\TheMusicMachine\TheMusicMachine\obj\Debug\TheMusicMachine.csprojResolveAssemblyReference.cache
+c:\users\matthew\documents\visual studio 2013\Projects\TheMusicMachine\TheMusicMachine\obj\Debug\TheMusicMachine.exe
+c:\users\matthew\documents\visual studio 2013\Projects\TheMusicMachine\TheMusicMachine\obj\Debug\TheMusicMachine.pdb
+c:\users\matthew\documents\visual studio 2013\Projects\TheMusicMachine\TheMusicMachine\bin\Debug\TheMusicMachine.exe.manifest
+c:\users\matthew\documents\visual studio 2013\Projects\TheMusicMachine\TheMusicMachine\bin\Debug\TheMusicMachine.application
+c:\users\matthew\documents\visual studio 2013\Projects\TheMusicMachine\TheMusicMachine\obj\Debug\TheMusicMachine.exe.manifest
+c:\users\matthew\documents\visual studio 2013\Projects\TheMusicMachine\TheMusicMachine\obj\Debug\TheMusicMachine.application
