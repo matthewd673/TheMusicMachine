@@ -23,7 +23,6 @@ namespace TheMusicMachine
             {
                 //Was given no value (or a crazy person tried to type '|')
                 case '|':
-                    Console.Beep(100, 1);
                     //Not sure what to do
                     //So we do nothing
                     break;
