@@ -12,10 +12,16 @@ namespace TheMusicMachine
         {
 
             string letter = "|";
-
+            int number = 0;
+            
             if(args.Length == 1)
             {
                 letter = args[0];
+                if(args[0].Contains('1') || args[0].Contains('2') || args[0].Contains('3') || args[0].Contains('4') || args[0].Contains('5') || args[0].Contains('6') || args[0].Contains('7') || args[0].Contains('8') || args[0].Contains('9') || args[0].Contains('0'))
+                {
+                    number = Convert.ToInt32(args[0]);
+                    letter = "|";
+                }
             }
 
 
@@ -141,6 +147,11 @@ namespace TheMusicMachine
                 //    folks!     //
                 //    - Matt     //
                 ///////////////////
+            }
+            
+            if(letter == "|")
+            {
+                Console.Beep(number, 100);
             }
 
         }
